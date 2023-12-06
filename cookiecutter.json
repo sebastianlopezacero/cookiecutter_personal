@@ -1,9 +1,9 @@
 {
-    "project_tittle": "Cookiecutter Personal",
+    "project_tittle": "¿Como llamaremos al proyecto?",
     "project_slug" : "{{ cookiecutter.project_tittle.lower().replace(' ','_').replace('-','_') }}",
-    "project_description" : "Something cool",
-    "project_author_name" : "Your name",
-    "project_packages": ["All", "Minimal"],
+    "project_description" : "Dame una descrippcion breve de tu nuevo proyecto",
+    "project_author_name" : "Danos tu nombre",
+    "project_packages": ["Todo", "Minimo"],
     "python_version" : "3.7"
 
 }
